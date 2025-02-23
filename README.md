@@ -125,6 +125,11 @@
 </a>
 
 <!-- Project html css 11 -->
+[👉 Xem Project HTML CSS 11](https://tranvuhoang.github.io/htmlcss-project-11/) </br>
 <a href="https://tranvuhoang.github.io/htmlcss-project-11/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranvuhoang&repo=htmlcss-project-11&theme=highcontrast" target="_blank" />
+</a>
+
+<a href="https://tranvuhoang.github.io/htmlcss-project-11/" onclick="window.open(this.href, '_blank'); return false;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranvuhoang&repo=htmlcss-project-11&theme=highcontrast" />
 </a>
