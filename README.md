@@ -39,6 +39,8 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tranvuhoang/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tranvuhoang/)
 
+## 📌 Project of me:
+
 <!-- Project html css 01 -->
 <a href="https://tranvuhoang.github.io/htmlcss-project-01/">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=tranvuhoang&repo=htmlcss-project-01&theme=dracula" />
@@ -76,10 +78,10 @@
 
 <!-- Project html css 10 -->
 <a href="https://tranvuhoang.github.io/htmlcss-project-10/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranvuhoang&repo=htmlcss-project-10&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranvuhoang&repo=htmlcss-project-10&theme=synthwave" />
 </a>
 
 <!-- Project html css 11 -->
 <a href="https://tranvuhoang.github.io/htmlcss-project-11/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranvuhoang&repo=htmlcss-project-11&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranvuhoang&repo=htmlcss-project-11&theme=highcontrast" />
 </a>
